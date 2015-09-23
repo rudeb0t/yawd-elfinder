@@ -3,8 +3,13 @@
 Changelog
 +++++++++
 
-v 0.91.00, ?
-============
+v.0.90.03, 2013.03.06
+=====================
+
+* Fix incorrect packaging, CRUCIAL, please update!
+
+v.0.90.02, 2013.03.06
+=====================
 
 * Compatibility with Django1.5
 
